@@ -1,0 +1,14 @@
+{
+    "development": {     
+        "url":"config"
+    },
+    "production": {
+        "url":"config"
+    },
+    "test": {
+        "url":"config"
+    },
+    "staging": {
+        "url":"config"
+    }
+}

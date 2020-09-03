@@ -1,0 +1,6 @@
+node_modules/
+semantic/
+.vscode/
+__mocks__/
+__test__/
+src/assets/
